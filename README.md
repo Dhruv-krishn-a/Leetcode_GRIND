@@ -5,6 +5,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/Dhruv-krishn-a/Leetcode_GRIND/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Dhruv-krishn-a/Leetcode_GRIND/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Dhruv-krishn-a/Leetcode_GRIND/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Dhruv-krishn-a/Leetcode_GRIND/tree/master/0540-single-element-in-a-sorted-array) |
@@ -26,3 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Dhruv-krishn-a/Leetcode_GRIND/tree/master/0013-roman-to-integer) |
+# Two Pointers
+|  |
+| ------- |
+| [0031-next-permutation](https://github.com/Dhruv-krishn-a/Leetcode_GRIND/tree/master/0031-next-permutation) |
