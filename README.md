@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Dhruv-krishn-a/Leetcode_GRIND/tree/master/0013-roman-to-integer) |
+| [0029-divide-two-integers](https://github.com/Dhruv-krishn-a/Leetcode_GRIND/tree/master/0029-divide-two-integers) |
 # String
 |  |
 | ------- |
@@ -31,3 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/Dhruv-krishn-a/Leetcode_GRIND/tree/master/0031-next-permutation) |
+# Bit Manipulation
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/Dhruv-krishn-a/Leetcode_GRIND/tree/master/0029-divide-two-integers) |
