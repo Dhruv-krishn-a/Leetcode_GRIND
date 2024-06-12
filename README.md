@@ -8,12 +8,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0031-next-permutation](https://github.com/Dhruv-krishn-a/Leetcode_GRIND/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Dhruv-krishn-a/Leetcode_GRIND/tree/master/0033-search-in-rotated-sorted-array) |
 | [0048-rotate-image](https://github.com/Dhruv-krishn-a/Leetcode_GRIND/tree/master/0048-rotate-image) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/Dhruv-krishn-a/Leetcode_GRIND/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Dhruv-krishn-a/Leetcode_GRIND/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Dhruv-krishn-a/Leetcode_GRIND/tree/master/0540-single-element-in-a-sorted-array) |
 # Binary Search
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Dhruv-krishn-a/Leetcode_GRIND/tree/master/0033-search-in-rotated-sorted-array) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/Dhruv-krishn-a/Leetcode_GRIND/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Dhruv-krishn-a/Leetcode_GRIND/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Dhruv-krishn-a/Leetcode_GRIND/tree/master/0540-single-element-in-a-sorted-array) |
 # Hash Table
