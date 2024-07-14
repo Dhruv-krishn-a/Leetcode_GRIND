@@ -46,3 +46,18 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Dhruv-krishn-a/Leetcode_GRIND/tree/master/0048-rotate-image) |
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Math
+|  |
+| ------- |
+| [0415-add-strings](https://github.com/Dhruv-krishn-a/Leetcode_GRIND/tree/master/0415-add-strings) |
+## String
+|  |
+| ------- |
+| [0415-add-strings](https://github.com/Dhruv-krishn-a/Leetcode_GRIND/tree/master/0415-add-strings) |
+## Simulation
+|  |
+| ------- |
+| [0415-add-strings](https://github.com/Dhruv-krishn-a/Leetcode_GRIND/tree/master/0415-add-strings) |
+<!---LeetCode Topics End-->
