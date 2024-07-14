@@ -56,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0415-add-strings](https://github.com/Dhruv-krishn-a/Leetcode_GRIND/tree/master/0415-add-strings) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/Dhruv-krishn-a/Leetcode_GRIND/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Simulation
 |  |
 | ------- |
