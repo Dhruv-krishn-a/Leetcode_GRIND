@@ -57,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0020-valid-parentheses](https://github.com/Dhruv-krishn-a/Leetcode_GRIND/tree/master/0020-valid-parentheses) |
 | [0415-add-strings](https://github.com/Dhruv-krishn-a/Leetcode_GRIND/tree/master/0415-add-strings) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Dhruv-krishn-a/Leetcode_GRIND/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Dhruv-krishn-a/Leetcode_GRIND/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Simulation
 |  |
@@ -87,4 +88,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Dhruv-krishn-a/Leetcode_GRIND/tree/master/0020-valid-parentheses) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Dhruv-krishn-a/Leetcode_GRIND/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 <!---LeetCode Topics End-->
