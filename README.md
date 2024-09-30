@@ -56,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Dhruv-krishn-a/Leetcode_GRIND/tree/master/0020-valid-parentheses) |
+| [0058-length-of-last-word](https://github.com/Dhruv-krishn-a/Leetcode_GRIND/tree/master/0058-length-of-last-word) |
 | [0415-add-strings](https://github.com/Dhruv-krishn-a/Leetcode_GRIND/tree/master/0415-add-strings) |
 | [0812-rotate-string](https://github.com/Dhruv-krishn-a/Leetcode_GRIND/tree/master/0812-rotate-string) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Dhruv-krishn-a/Leetcode_GRIND/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
