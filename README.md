@@ -70,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0055-jump-game](https://github.com/Dhruv-krishn-a/Leetcode_GRIND/tree/master/0055-jump-game) |
 | [0074-search-a-2d-matrix](https://github.com/Dhruv-krishn-a/Leetcode_GRIND/tree/master/0074-search-a-2d-matrix) |
+| [0724-find-pivot-index](https://github.com/Dhruv-krishn-a/Leetcode_GRIND/tree/master/0724-find-pivot-index) |
 ## Binary Search
 |  |
 | ------- |
@@ -95,4 +96,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/Dhruv-krishn-a/Leetcode_GRIND/tree/master/0812-rotate-string) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/Dhruv-krishn-a/Leetcode_GRIND/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
